@@ -42,6 +42,6 @@ Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Els
 [![](https://visitcount.itsvg.in/api?id=aryanshror&icon=9&color=2)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoke]([https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black])](https://instagram.com/notsoaryu) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://instagram.com/notsoaryu) 
 
 
