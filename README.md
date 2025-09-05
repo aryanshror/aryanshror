@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Aryansh Chaudhary
 **A passionate Researcher || Vibe Web Devloper || Bulding Foundation Of TheChaosCompany**
+Predicting like I was reincarnated many times 👀
 
 Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Else. 😊😊
 
