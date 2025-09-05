@@ -34,7 +34,7 @@ Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Els
 ### 🤧 Current Status
 **"मैं यूँ लिख दूँ जो ज़ख़्म अपने, पर अब लिख के भी क्या होगा।**
 **आती है याद वो तो उस शाम की भी, जिस पल मैं तुम पर फ़िदा हुआ था।"**
-https://tenor.com/view/rezero-rezero-season-2-rezero-s2-subaru-natsuki-subaru-gif-17094058744959975637
+<div class="tenor-gif-embed" data-postid="17094058744959975637" data-share-method="host" data-aspect-ratio="1.75352" data-width="100%"><a href="https://tenor.com/view/rezero-rezero-season-2-rezero-s2-subaru-natsuki-subaru-gif-17094058744959975637">Rezero Rezero Season 2 GIF</a>from <a href="https://tenor.com/search/rezero-gifs">Rezero GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aryanshror&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
