@@ -32,6 +32,8 @@ Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Els
 ![](https://github-profile-trophy.vercel.app/?username=aryanshror&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🤧 Current Status
+"मैं यूँ लिख दूँ जो ज़ख़्म अपने, पर अब लिख के भी क्या होगा।
+आती है याद वो तो उस शाम की भी, जिस पल मैं तुम पर फ़िदा हुआ था।"
 ![](https://tenor.com/view/rezero-rezero-season-2-rezero-s2-subaru-natsuki-subaru-gif-17094058744959975637)
 
 ### 🔝 Top Contributed Repo
