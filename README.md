@@ -24,6 +24,7 @@ Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Els
 
 # 🤌 Abilities (i also know manipulation, so keep distance):
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+
 # 📊 Don't Judge By Numbers:
 ![](https://github-readme-stats.vercel.app/api?username=aryanshror&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aryanshror&theme=midnight-purple&hide_border=false)<br/>
@@ -34,6 +35,7 @@ Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Els
 ### 🤧 Current Status
 **"मैं यूँ लिख दूँ जो ज़ख़्म अपने, पर अब लिख के भी क्या होगा।**
 **आती है याद वो तो उस शाम की भी, जिस पल मैं तुम पर फ़िदा हुआ था।"**
+
 ![Image](https://github.com/user-attachments/assets/1bf4abe8-7bf3-45b4-ad15-d88e126cfe6e)
 
 ### 🔝 Top Contributed Repo
