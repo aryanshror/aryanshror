@@ -11,7 +11,7 @@ Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Els
 - 📫 **How to reach me:** chaoseffect.hq@gmail.com
 - 😄 **Pronouns:** Him/Greedy
 - ⚡ **Quote:** Predicting like I was reincarnated many times 👀
-
+contributions
 - <!-- Snake Game Repo View -->
 
 <div align="center">
