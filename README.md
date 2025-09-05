@@ -27,13 +27,12 @@ Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Els
 # 📊 Don't Judge By Numbers:
 ![](https://github-readme-stats.vercel.app/api?username=aryanshror&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aryanshror&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshror&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Honors (never got in school so collecting here);
 ![](https://github-profile-trophy.vercel.app/?username=aryanshror&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🤧 Current Status
+![](https://tenor.com/view/rezero-rezero-season-2-rezero-s2-subaru-natsuki-subaru-gif-17094058744959975637)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aryanshror&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
