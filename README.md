@@ -34,7 +34,7 @@ Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Els
 ### 🤧 Current Status
 **"मैं यूँ लिख दूँ जो ज़ख़्म अपने, पर अब लिख के भी क्या होगा।**
 **आती है याद वो तो उस शाम की भी, जिस पल मैं तुम पर फ़िदा हुआ था।"**
-![Image](https://github.com/user-attachments/assets/d650c8da-b0ee-4ba6-9028-0ca379d44044)
+![Image](https://github.com/user-attachments/assets/d650c8da-b0ee-4ba6-9028-0ca379d44044)![Image](https://github.com/user-attachments/assets/1bf4abe8-7bf3-45b4-ad15-d88e126cfe6e)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aryanshror&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
