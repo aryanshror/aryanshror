@@ -3,14 +3,14 @@
 
 Email 👉 ✉️ **chaoshq@flash.co** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** NorthWest.tv
+- 🌱 **I’m currently learning:** Web Devlopment
+- 👯 **I’m looking to collaborate on:** Our Music Visuals Project On LobhaMarg
+- 🤔 **I’m looking for help with:** ChaosEffect (Ai Research Project Under TheChaosCompany)
+- 💬 **Ask me about:** Collaboration
+- 📫 **How to reach me:** chaoseffect.hq@gmail.com
+- 😄 **Pronouns:** Him/Greedy
+- ⚡ **Quote:** Predicting like I was reincarnated many times 👀
 
 - <!-- Snake Game Repo View -->
 
